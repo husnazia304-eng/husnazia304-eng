@@ -37,8 +37,7 @@ Most developers can write code, and most designers can create visuals. I do both
 
 ### 📈 Let's Connect!
 
-* **LinkedIn:** [Insert Link]
-* **Portfolio:** [Insert Graphic Design Portfolio Link if you have one]
+* **LinkedIn:** [www.linkedin.com/in/husna-zia-77a081364]
 * **Email:** [husnazia304@gmail.com]
 
 *"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs*
