@@ -24,7 +24,7 @@ I sit at the intersection of **Logic** and **Design**. As a 4th-semester Artific
 ### 🚀 Academic & Creative Journey
 
 * 🎓 **Current Semester:** 4th (The core of AI theory and system architecture).
-* 🔭 **Latest Project:** [Insert brief mention of your Inventory System or Networking Lab].
+* 🔭 **Latest Project:** [mysql and packet-tracer].
 * 🌱 **Current Learning:** Exploring the synergy between Generative AI and Visual Arts.
 
 ---
