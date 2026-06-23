@@ -11,7 +11,7 @@ I sit at the intersection of **Logic** and **Design**. As a 4th-semester Artific
 
 **The AI & Engineering Side:**
 * **Focus:** Machine Learning foundations, Database Management, and Network Infrastructure.
-* **Tech:** Python, C++, SQL, Data Structures.
+* **Tech:** Python, C++, SQL, Data Structures,java,networking.
 * **Academic Hub:** Currently deep-diving into AI applications at COMSATS University, Attock Campus.
 
 **The Creative Side:**
