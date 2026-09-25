@@ -1,9 +1,9 @@
 
 # Hi there, I'm Husna! 👋 
 
-### 🤖 BSAI Student @ COMSATS University (Attock) | 🎨 Graphic Designer
+### 🤖 BSAI Student @ COMSATS University (Attock) | 🎨 Graphic Designer | AI ENGINEER
 
-I sit at the intersection of **Logic** and **Design**. As a 4th-semester Artificial Intelligence student, I spend my time architecting smart systems, while my background in Graphic Design ensures that everything I build is as intuitive as it is powerful.
+I sit at the intersection of **Logic** and **Design**. As a 5th-semester Artificial Intelligence student, I spend my time architecting smart systems, while my background in Graphic Design ensures that everything I build is as intuitive as it is powerful.
 
 ---
 
