@@ -15,7 +15,7 @@ I sit at the intersection of **Logic** and **Design**. As a 4th-semester Artific
 * **Academic Hub:** Currently deep-diving into AI applications at COMSATS University, Attock Campus.
 
 **The Creative Side:**
-* **Skills:** Visual Identity, UI/UX Principles, Digital Illustration.
+* **Skills:** Visual Identity, UI/UX Principles, Digital Illustration, ML,Genrative AI,Agentic AI .
 * **Tools:** Adobe Creative Suite, Figma.
 * **Philosophy:** Good tech should be beautiful; good design should be functional.
 
@@ -23,7 +23,7 @@ I sit at the intersection of **Logic** and **Design**. As a 4th-semester Artific
 
 ### 🚀 Academic & Creative Journey
 
-* 🎓 **Current Semester:** 4th (The core of AI theory and system architecture).
+* 🎓 **Current Semester:** 5th (The core of AI theory and system architecture).
 * 🔭 **Latest Project:** [mysql and packet-tracer].
 * 🌱 **Current Learning:** Exploring the synergy between Generative AI and Visual Arts.
 
